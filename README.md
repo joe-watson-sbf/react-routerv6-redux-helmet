@@ -4,9 +4,9 @@
 -  DOCS
 
       **HELMET** 
-              
-              https://github.com/nfl/react-helmet
+      
+          https://github.com/nfl/react-helmet
 
       **REDUX:** 
               
-              https://react-redux.js.org/introduction/getting-started
+          https://react-redux.js.org/introduction/getting-started
