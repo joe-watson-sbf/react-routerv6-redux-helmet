@@ -1,7 +1,7 @@
 ## REACT ROUTER V6, REDUX and REACT HELMET for dynamic Header
 
 
--  DOCS
+-  DOCUMENTATION
 
       **HELMET** 
       
